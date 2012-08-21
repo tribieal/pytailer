@@ -71,3 +71,13 @@ Run tests with nose::
 Run tests with doctest::
 
     python -m doctest -v src/tailer/__init__.py
+
+
+
+
+
+tribieal add:
+
+add logtail
+python logtail
+config init.cfg which files to keep tail and keyword to grep and output file to wirte.
